@@ -1,0 +1,30 @@
+/* .divide{
+    margin: auto;
+} */
+
+.h3{
+    text-align: center;
+}
+
+.main-tag{
+    margin-top: 10px;
+}
+
+.container{
+    background-color: antiquewhite;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 70px;
+}
+
+.payment{
+    background-color: #fff;
+    text-align: center;
+}
